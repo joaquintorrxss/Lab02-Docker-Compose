@@ -15,12 +15,7 @@ Para detener:
 
 docker compose down
 
-## Configuración por entorno
 
-Crear un archivo .env en la raíz con:
-
-MESSAGE=< Jesus Joaquin Torres Avalos>
-POSTGRES_PASSWORD=<123joaquin>
 
 ## Tipos de redes en Docker
 
